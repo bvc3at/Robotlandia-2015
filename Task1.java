@@ -48,7 +48,6 @@ public class Task1 {
         fileRead.close();
 
 
-
         fileWrite.write(((isThatPossible) ? "YES" : "NO"));
         fileWrite.close();
 
